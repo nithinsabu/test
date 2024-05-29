@@ -1,2 +1,2 @@
 a = 4
-print(a)
+b = range(a)
